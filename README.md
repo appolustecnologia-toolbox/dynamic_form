@@ -1,3 +1,5 @@
+> **Fork** de [sobrinho/dynamic_form](https://github.com/sobrinho/dynamic_form) (que por sua vez é fork de [joelmoss/dynamic_form](https://github.com/joelmoss/dynamic_form) / [rails/dynamic_form](https://github.com/rails/dynamic_form)), branch `master`, a partir do commit [`01098bd`](https://github.com/sobrinho/dynamic_form/commit/01098bdc28832d70b22864d4045a620aa9e83d98). Mantido aqui para uso no projeto educação.
+
 DynamicForm
 ===========
 
